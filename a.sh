@@ -1,0 +1,7 @@
+git lfs track "*.fbx"
+git lfs track "*.png"
+git lfs track "*.jpg"
+git lfs track "*.psd"
+git lfs track "*.unitypackage"
+git lfs track "*.mp4"
+git lfs track "*.wav"
