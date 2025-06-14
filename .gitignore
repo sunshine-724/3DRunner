@@ -87,5 +87,36 @@ crashlytics-build.properties
 /[Aa]ssets/Unity.VisualScripting.Generated/VisualScripting.Core/Property Providers
 /[Aa]ssets/Unity.VisualScripting.Generated/VisualScripting.Core/Property Providers.meta
 
-.idea/
+# Unity
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
 
+# Visual Studio / Rider
+*.sln
+*.csproj
+*.user
+*.userprefs
+*.suo
+
+# Mac
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# Asset Store Tools
+/[Aa]ssets/AssetStoreTools*
+
+# Addressables
+/[Aa]ssets/AddressableAssetsData/*/*.bin*
