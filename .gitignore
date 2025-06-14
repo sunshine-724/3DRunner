@@ -120,3 +120,16 @@ ehthumbs.db
 
 # Addressables
 /[Aa]ssets/AddressableAssetsData/*/*.bin*
+
+
+# https://github.com/JetBrains/idea-gitignore/blob/main/.gitignore
+.gradle
+.idea/
+.intellijPlatform/
+!.idea/icon*.png
+*.iml
+build/
+src/main/gen
+src/main/resources/templates.list
+src/main/resources/gitignore/*
+src/main/resources/toptal/*
